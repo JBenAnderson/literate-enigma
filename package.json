@@ -1,0 +1,22 @@
+{
+  "name": "literate-enigma",
+  "version": "1.0.0",
+  "description": "A simple date application to be shared via Docker Hub to showcase the open-source tool from Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBenAnderson/literate-enigma.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JBenAnderson/literate-enigma/issues"
+  },
+  "homepage": "https://github.com/JBenAnderson/literate-enigma#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
